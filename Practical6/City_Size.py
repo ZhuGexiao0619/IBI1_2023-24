@@ -6,7 +6,6 @@ China_names=["Haning","Hangzhou","Shanghai","Beijing"]
 plt.figure()
 plt.bar(uk_names,uk_cities)
 plt.show()
-plt.clf()
 plt.figure()
 plt.bar(China_names,China_cities)
 plt.show()
