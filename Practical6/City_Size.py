@@ -5,6 +5,8 @@ uk_names=["Edinburgh","Glsgow","Stirling","London"]
 China_names=["Haning","Hangzhou","Shanghai","Beijing"]
 uk_cities.sort()
 China_cities.sort()
+print(uk_cities)
+print(China_cities)
 plt.figure()
 plt.bar(uk_names,uk_cities)
 plt.show()
