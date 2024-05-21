@@ -10,3 +10,12 @@ elif d>e:
 elif d==e:
     print("they are same")
 #running training is better
+
+X=True
+Y=False
+print(not X==Y)
+#    A     B      W
+#  True  True   False    
+#  True  False  True
+#  False True   True
+#  False False  False 
